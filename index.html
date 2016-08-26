@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div>
+
+  <h1>Characters</h1>
+
+  <ul>
+    {% for character in site.characters %}
+      <li>
+        <a href="{{ character.url }}">
+          <span>{{ character.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h1>Seasons</h1>
+
+  <ul>
+    {% for season in site.seasons %}
+      <li>
+        <a href="{{ season.url }}">
+          <span>{{ season.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+  
+  <h1>Episodes</h1>
+
+  <ul>
+    {% for episode in site.episodes %}
+      <li>
+        <a href="{{ episode.url }}">
+          <span>{{ episode.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
