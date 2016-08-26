@@ -1,8 +1,12 @@
 ---
 title: Phyllis Vance
-actorname: Phyllis Smith
-imageurl: https://dato-images.imgix.net/151/1471782451-phyllis.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+actor_name: Phyllis Smith
+episodes: '187
+
+'
 weight: 12
+thumbnail_url: https://dato-images.imgix.net/151/1471782451-phyllis.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200
+image_url: https://dato-images.imgix.net/151/1471782451-phyllis.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg
 ---
 
 Phyllis Vance is a soft-spoken, but friendly Sales Rep for Dunder Mifflin. Portrayed as somewhat meek, she proves to be a savvy sales woman. But she’s a hard worker who won the Dundie for busiest beaver, although there was a typo on the trophy.

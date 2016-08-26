@@ -1,8 +1,12 @@
 ---
 title: Kelly Kapoor
-actorname: Mindy Kaling
-imageurl: https://dato-images.imgix.net/151/1471782439-kelly.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+actor_name: Mindy Kaling
+episodes: '160
+
+'
 weight: 15
+thumbnail_url: https://dato-images.imgix.net/151/1471782439-kelly.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200
+image_url: https://dato-images.imgix.net/151/1471782439-kelly.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg
 ---
 
 Kelly is the bubbly and energetic Customer Service Rep for Dunder Mifflin. She is extremely talkative. In “Drug Testing” she is able to carry on an entire conversation with Jim even though he is unable to speak. She is rather shallow and loves celebrity gossip. In “Grief Counseling” she called Princess Diana’s funeral the saddest ever before remembering her own sisters.

@@ -1,8 +1,12 @@
 ---
 title: Bob Vance
-actorname: Robert R. Shafer
-imageurl: https://dato-images.imgix.net/151/1471782382-bob-vance.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+actor_name: Robert R. Shafer
+episodes: '25
+
+'
 weight: 25
+thumbnail_url: https://dato-images.imgix.net/151/1471782382-bob-vance.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200
+image_url: https://dato-images.imgix.net/151/1471782382-bob-vance.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg
 ---
 
 Bob Vance owns a refrigeration business in the same office building that Dunder Mifflin occupies. He always introduces himself as “Bob Vance, Vance Refrigeration” even when meeting multiple people at one time. This is perhaps trying to use the documentary crew as free advertising for his business. He gets engaged and later marries Phyllis.

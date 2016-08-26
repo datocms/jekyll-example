@@ -1,5 +1,13 @@
----
-layout: page
----
+<!doctype html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include main_navigation.html %}
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+  </body>
+</html>
 
-{{ content }}

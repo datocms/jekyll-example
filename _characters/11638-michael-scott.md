@@ -1,8 +1,12 @@
 ---
 title: Michael Scott
-actorname: Steve Carell
-imageurl: https://dato-images.imgix.net/151/1471782497-michael.jpeg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+actor_name: Steve Carell
+episodes: '138
+
+'
 weight: 1
+thumbnail_url: https://dato-images.imgix.net/151/1471782497-michael.jpeg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200
+image_url: https://dato-images.imgix.net/151/1471782497-michael.jpeg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg
 ---
 
 Explaining why Michael is the best character on the office is like explaining why you need more than just snakes and sparklers for your firework stand. Giving Michael Scott his own personal camera crew must have been his dream come true.

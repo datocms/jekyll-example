@@ -1,13 +1,55 @@
 ---
-layout: page
+layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-
-<p>{{page.episodenumber}}</p>
-<p>{{page.imageurl}}</p>
-<p>{{page.date}}</p>
-<p>{{page.rating}}</p>
-<p>{{page.season}}</p>
-
-{{ content }}
+<div class="wrap">
+  <div class="grid">
+    <div class="grid__cell grid__cell--20">
+      <section class="section section--left">
+        <h2 class="section__title">Season episodes</h2>
+        <ul class="nav">
+          {% assign episodes = site.episodes | where: "category", page.category | sort: "episode_number" %}
+          {% for episode in episodes %}
+            <li class="nav__item">
+              <a href="{{ episode.url }}">
+                {{ episode.title }}
+                <div class="nav__item__details">
+                  Episode #{{ episode.episode_number }}
+                </div>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    </div>
+    <div class="grid__cell grid__cell--80">
+      <section class="section">
+        <div class="character">
+          <div class="character__image">
+            {% if page.image_url %}
+              <img src="{{ page.image_url }}" />
+            {% endif %}
+          </div>
+          <h1 class="character__title">{{ page.title }}</h1>
+          <ul class="meta">
+            <li class="meta__item">
+              <strong>Season:</strong> {{ page.category }}
+            </li>
+            <li class="meta__item">
+              <strong>Episode number: </strong>{{ page.episode_number }}
+            </li>
+            <li class="meta__item">
+              <strong>First aired:</strong> {{ page.date | date_to_long_string }}
+            </li>
+            <li class="meta__item">
+              <strong>Rating:</strong> {{ page.rating }}
+            </li>
+          </ul>
+          <div class="character__content">
+            {{ page.content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

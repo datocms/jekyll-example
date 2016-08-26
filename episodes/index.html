@@ -1,0 +1,54 @@
+---
+layout: default
+paginate:
+  collection: episodes
+  per_page: 20
+---
+
+<div class="wrap">
+  <div class="grid">
+    <div class="grid__cell grid__cell--20">
+      <section class="section section--left">
+        <h2 class="section__title">Seasons</h2>
+        <ul class="nav">
+          {% assign seasons = site.categories | sort: 'title' %}
+          {% for season in seasons %}
+            <li class="nav__item">
+              <a href="#">{{ season }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    </div>
+    <div class="grid__cell grid__cell--80">
+      <section class="section">
+        <h2 class="section__title">Episodes</h2>
+        <div class="pagination">
+          <% if pager.previous_page_path %>
+            <%= link_to "Previous page", pager.previous_page_path, class: "pagination__prev" %>
+          <% end %>
+
+          <% if pager.next_page_path %>
+            <%= link_to "Next page", pager.next_page_path, class: "pagination__next" %>
+          <% end %>
+        </div>
+        <div class="grid">
+          <% items.each do |episode| %>
+            <div class="grid__cell grid__cell--50">
+              <%= partial "partials/episode_preview", locals: { episode: episode } %>
+            </div>
+          <% end %>
+        </div>
+        <div class="pagination">
+          <% if pager.previous_page_path %>
+            <%= link_to pager.previous_page_path "Previous page", pager.previous_page_path, class: "pagination__prev" %>
+          <% end %>
+
+          <% if pager.next_page_path %>
+            <%= link_to "Next page", pager.next_page_path, class: "pagination__next" %>
+          <% end %>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>

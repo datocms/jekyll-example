@@ -2,51 +2,49 @@
 layout: default
 ---
 
-<div>
+<div class="wrap">
+  <section class="section">
+    <h2 class="section__title">
+      Characters
+      <a href="/characters" class="button">View All</a>
+    </h2>
 
-  <h1>{{ site.data.home.site_name }}</h1>
-  <p>{{ site.data.home.tag_line }}</p>
-  <p>{{ site.data.home.description }}</p>
-
+    <div class="grid grid--center">
+      {% assign characters = site.characters | sort: 'weight' %}
+      {% for character in characters limit: 10 %}
+        <div class="grid__cell grid__cell--20">
+          {% include character_preview.html character=character %}
+        </div>
+      {% endfor %}
+    </div>
+  </section>
 </div>
 
+<hr />
 
-<div>
+<div class="wrap">
+  <section class="section">
+    <h2 class="section__title">About the serie</h2>
+    {{ site.data.homepage.description | markdownify }}
+  </section>
+</div>
 
-  <h2>Characters</h2>
+<hr />
 
-  <ul>
-    {% for character in site.characters %}
-      <li>
-        <a href="{{ character.url }}">
-          <span>{{ character.title }}</span>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h2>Seasons</h2>
-
-  <ul>
-    {% for season in site.seasons %}
-      <li>
-        <a href="{{ season.url }}">
-          <span>{{ season.title }}</span>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-  
-  <h2>Episodes</h2>
-
-  <ul>
-    {% for episode in site.episodes %}
-      <li>
-        <a href="{{ episode.url }}">
-          <span>{{ episode.title }}</span>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-
+<div class="wrap">
+    <section class="section">
+      <h2 class="section__title">
+        Latest episodes
+        <a href="/episodes" class="button">View All</a>
+      </h2>
+      <div class="grid">
+        {% assign episodes = site.episodes | sort: 'weight' | reverse %}
+        {% for episode in episodes limit: 6 %}
+          <div class="grid__cell grid__cell--33">
+            {% include episode_preview.html episode=episode %}
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
 </div>

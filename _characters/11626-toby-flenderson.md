@@ -1,8 +1,12 @@
 ---
 title: Toby Flenderson
-actorname: Paul Lieberstein
-imageurl: https://dato-images.imgix.net/151/1471782448-toby.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+actor_name: Paul Lieberstein
+episodes: '141
+
+'
 weight: 13
+thumbnail_url: https://dato-images.imgix.net/151/1471782448-toby.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200
+image_url: https://dato-images.imgix.net/151/1471782448-toby.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg
 ---
 
 Toby is the sad sack human resources rep. Technically, he is a corporate employee which leads to Michael viewing him as the enemy and he thinks Toby’s job is to “make everything lame.” Michael’s mission in life is making life miserable for Toby and in a fitting first appearance in “Diversity Day” Michael kicks Toby out of a meeting, just because he can.

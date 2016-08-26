@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="wrap">
+  <section class="section">
+    <h2 class="section__title">Characters</h2>
+    <div class="grid">
+      {% assign characters = site.characters | sort: 'weight' %}
+      {% for character in characters %}
+        <div class="grid__cell grid__cell--20">
+          {% include character_preview.html character=character %}
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+</div>

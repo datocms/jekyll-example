@@ -1,17 +1,24 @@
+GIT
+  remote: git://github.com/octopress/hooks.git
+  revision: 9ec9efcbe8e2aa4d79d2a35543a29b51f3e6feb2
+  specs:
+    octopress-hooks (2.6.1)
+      jekyll (>= 2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.0.0.1)
-      concurrent-ruby (~> 1.0, >= 1.0.2)
+    activesupport (4.2.7.1)
       i18n (~> 0.7)
+      json (~> 1.7, >= 1.7.7)
       minitest (~> 5.1)
+      thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
     blankslate (2.1.2.4)
     colorator (1.1.0)
-    concurrent-ruby (1.0.2)
-    dato (0.1.9)
-      activesupport
+    dato (0.1.10)
+      activesupport (= 4.2.7.1)
       addressable
       downloadr
       faraday (>= 0.9.0)
@@ -53,6 +60,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    json (1.8.3)
     kramdown (1.12.0)
     liquid (3.0.6)
     listen (3.0.8)
@@ -63,6 +71,8 @@ GEM
     minitest (5.9.0)
     multipart-post (2.0.0)
     netrc (0.11.0)
+    octopress-paginate (1.1.2)
+      octopress-hooks
     parslet (1.5.0)
       blankslate (~> 2.0)
     pathutil (0.14.0)
@@ -94,9 +104,8 @@ PLATFORMS
 DEPENDENCIES
   dato
   jekyll (= 3.2.1)
-
-RUBY VERSION
-   ruby 2.3.1p112
+  octopress-hooks!
+  octopress-paginate
 
 BUNDLED WITH
    1.12.5
