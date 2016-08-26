@@ -1,3 +1,11 @@
+directory "_data/" do
+  create_data_file "home.yml", :yaml,
+    site_name: dato.homepage.site_name,
+    tag_line: dato.homepage.tag_line,
+    description: dato.homepage.description
+end
+
+
 directory "_seasons" do
   dato.seasons.each do |season|
     create_post "#{season.slug}.md" do
@@ -7,8 +15,8 @@ directory "_seasons" do
         weight: season.position
 
       content season.overview
+    end
   end
-end
 end
 
 directory "_episodes" do

@@ -4,7 +4,16 @@ layout: default
 
 <div>
 
-  <h1>Characters</h1>
+  <h1>{{ site.data.home.site_name }}</h1>
+  <p>{{ site.data.home.tag_line }}</p>
+  <p>{{ site.data.home.description }}</p>
+
+</div>
+
+
+<div>
+
+  <h2>Characters</h2>
 
   <ul>
     {% for character in site.characters %}
@@ -16,7 +25,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <h1>Seasons</h1>
+  <h2>Seasons</h2>
 
   <ul>
     {% for season in site.seasons %}
@@ -28,7 +37,7 @@ layout: default
     {% endfor %}
   </ul>
   
-  <h1>Episodes</h1>
+  <h2>Episodes</h2>
 
   <ul>
     {% for episode in site.episodes %}

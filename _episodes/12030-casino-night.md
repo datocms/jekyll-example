@@ -1,7 +1,7 @@
 ---
 title: Casino Night
 episodenumber: 2
-imageurl: https://dato-images.imgix.net/151/1471789173-2ZEGECCWXmLd7HHJ10RG4W4V3LY.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
+imageurl: https://dato-images.imgix.net/151/1472216531-Screenshot2016-08-2615.01.59.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
 date: '2005-09-27'
 rating: 9.1
 season:

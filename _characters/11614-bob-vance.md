@@ -1,5 +1,4 @@
 ---
-layout: character
 title: Bob Vance
 actorname: Robert R. Shafer
 imageurl: https://dato-images.imgix.net/151/1471782382-bob-vance.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat
