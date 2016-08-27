@@ -6,8 +6,8 @@ image_url: https://dato-images.imgix.net/151/1471788990-ArdMXfmKJkVQzjX2k2J3kRKx
 thumbnail_url: https://dato-images.imgix.net/151/1471788990-ArdMXfmKJkVQzjX2k2J3kRKxYkM.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg
 date: '2010-05-13'
 weight: 119
-rating: 8.2
+rating: 7.8
 category: Season 6
 ---
 
-The office staff is shocked that Michael seems ready to continue seeing Donna despite having learned that she's married. Jim and Pam's sleep deprivation from their new baby leaves them exhausted. Angela and Dwight bring in a mediator to settle their pre-natal contract.
+Michael continues to see Donna even after learning she's married and meeting her husband, Dwight and Angela take their baby contract to an arbitrator, and Jim and Pam struggle to stay awake at the office.

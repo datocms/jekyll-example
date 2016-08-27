@@ -5,7 +5,7 @@ palette_url: https://dato-images.imgix.net/151/1471789103-gaEVELpUVW2B67lCobOPSB
 image_url: https://dato-images.imgix.net/151/1471789103-gaEVELpUVW2B67lCobOPSB8n9xx.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500
 thumbnail_url: https://dato-images.imgix.net/151/1471789103-gaEVELpUVW2B67lCobOPSB8n9xx.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg
 date: '2008-04-17'
-weight: 62
+weight: 66
 rating: 8.7
 category: Season 4
 ---

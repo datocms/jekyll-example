@@ -5,9 +5,9 @@ palette_url: https://dato-images.imgix.net/151/1471789003-qefQeKOowzHWGdwMpylDmQ
 image_url: https://dato-images.imgix.net/151/1471789003-qefQeKOowzHWGdwMpylDmQUe1w4.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500
 thumbnail_url: https://dato-images.imgix.net/151/1471789003-qefQeKOowzHWGdwMpylDmQUe1w4.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg
 date: '2010-03-11'
-weight: 114
-rating: 5.6
+weight: 113
+rating: 7.7
 category: Season 6
 ---
 
-Michael is flummoxed when Jo takes a liking to Darryl and his new shipping idea. Dwight proves to be agitating when Jim returns from paternity leave. Andy and Erin have their first date planned. When Jo stays late working, everyone else feels they have to, too.
+It's St. Patrick's Day, and the CEO forces the office to work late because she won't leave. In addition, Michael unsuccessfully tries to suck up to his new boss, and Andy and Erin's first date is delayed because Erin is sick.

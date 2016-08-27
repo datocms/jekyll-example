@@ -6,8 +6,8 @@ image_url: https://dato-images.imgix.net/151/1471788994-hovtvLtGQi01Cq2FoFTW0i9T
 thumbnail_url: https://dato-images.imgix.net/151/1471788994-hovtvLtGQi01Cq2FoFTW0i9T8tc.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg
 date: '2010-04-29'
 weight: 117
-rating: 8.0
+rating: 7.9
 category: Season 6
 ---
 
-The staff aren't sure if Donna is flirting with Michael to get a good deal on printers or out of genuine interest in him. Dwight tells Kelly she should enroll in Sabre's
+Michael is hopeful that a potential client is interested in him, but everyone in the office except Pam thinks he's wasting his time. Meanwhile, Dwight recruits Kelly to apply for the Sabre minority management training program.

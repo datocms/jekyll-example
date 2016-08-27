@@ -6,8 +6,8 @@ image_url: https://dato-images.imgix.net/151/1471788988-aM7DYSIfVky7AVsI224BZxgH
 thumbnail_url: https://dato-images.imgix.net/151/1471788988-aM7DYSIfVky7AVsI224BZxgHvHq.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg
 date: '2010-05-20'
 weight: 120
-rating: 7.5
+rating: 7.9
 category: Season 6
 ---
 
-When Sabre CEO Jo Bennett returns to Scranton to get to the bottom of who told the press about their printers catching on fire, suspicion falls on Andy.
+Jo comes to the Scranton branch to find the whistle-blower. However, three different people have confessed to Michael, Michael is protecting them, and the person most people think is the culprit is keeping his mouth shut.

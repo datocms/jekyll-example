@@ -1,13 +1,13 @@
 ---
 title: The Surplus
-episode_number: 10
+episode_number: 9
 palette_url: https://dato-images.imgix.net/151/1471789075-qDuiw9kTxVXoROzemeAkzPmz2uS.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json
 image_url: https://dato-images.imgix.net/151/1471789075-qDuiw9kTxVXoROzemeAkzPmz2uS.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500
 thumbnail_url: https://dato-images.imgix.net/151/1471789075-qDuiw9kTxVXoROzemeAkzPmz2uS.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg
-date: '2008-12-11'
-weight: 78
+date: '2008-12-04'
+weight: 76
 rating: 8.7
 category: Season 5
 ---
 
-With a $4,300 surplus to spend, the workers fight amongst themselves in order to get what they want. Andy and Angela go to Schrute Farms to work on wedding plans.
+Michael has to spend the office surplus by they end of the day, but he can't decide between a copier or new chairs. Dwight plays a dirty trick on Angela as they prepare for Andy and Angela's wedding on the beet farm.

@@ -5,9 +5,9 @@ palette_url: https://dato-images.imgix.net/151/1471789024-9K9sjtgNL0dzzgkWy2Yz7Z
 image_url: https://dato-images.imgix.net/151/1471789024-9K9sjtgNL0dzzgkWy2Yz7ZnNnGB.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500
 thumbnail_url: https://dato-images.imgix.net/151/1471789024-9K9sjtgNL0dzzgkWy2Yz7ZnNnGB.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg
 date: '2009-10-29'
-weight: 104
-rating: 8.0
+weight: 102
+rating: 8.1
 category: Season 6
 ---
 
-Michael falls into a koi pond during a sales visit, prompting a slew of mockery in the office. Pam and Andy make cold calls, where they're constantly mistaken for a couple.
+Michael is upset when he becomes the butt of all the office jokes after he falls in a koi pond. Andy and Pam go out together on some cold calls, and everybody mistakes them as a married couple.

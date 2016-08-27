@@ -5,7 +5,7 @@ palette_url: https://dato-images.imgix.net/151/1471789030-cw6CCh27Z4LdKSMSaE9cgx
 image_url: https://dato-images.imgix.net/151/1471789030-cw6CCh27Z4LdKSMSaE9cgxQnrdJ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500
 thumbnail_url: https://dato-images.imgix.net/151/1471789030-cw6CCh27Z4LdKSMSaE9cgxQnrdJ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg
 date: '2009-10-08'
-weight: 101
+weight: 99
 rating: 8.8
 category: Season 6
 ---
