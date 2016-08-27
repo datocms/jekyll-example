@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="wrap">
+  <section class="section">
+    <h2 class="section__title">Seasons</h2>
+    <div class="grid">
+    {% assign seasons = site.seasons | sort: 'title' %}
+    {% for season in seasons %}
+      <div class="grid__cell grid__cell--33">
+        <a href="{{ season.url }}" class="season-preview">
+          <div class="season-preview__meta" style="background-image: url('{{ season.bg_url }}')">
+            <div class="season-preview__image">
+              <img src="{{ season.thumbnail_url }}" />
+            </div>
+            <h6 class="season-preview__title">{{ season.title }}</h6>
+            <div class="season-preview__description">
+              {{ season.content | truncatewords: 30 }}
+            </div>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </section>
+</div>
+

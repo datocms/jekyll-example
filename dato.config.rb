@@ -10,7 +10,9 @@ directory "_seasons" do
     create_post "#{season.slug}.md" do
       frontmatter :yaml,
         title: season.name,
-        imageurl: season.image.file.to_url,
+        image_url: season.image.file.width(400).to_url,
+        thumbnail_url: season.image.file.height(300).to_url,
+        bg_url: season.image.file.width(5).to_url,
         weight: season.position
 
       content season.overview

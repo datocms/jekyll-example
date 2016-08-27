@@ -1,6 +1,25 @@
-<h1>{{ page.title }}</h1>
+---
+layout: default
+---
 
-<p>{{page.imageurl}}</p>
-<p>{{page.weight}}</p>
-
-{{ content }}
+<div class="wrap">
+  <section class="section">
+    <div class="season">
+      <div class="season__image">
+        <img src="{{ page.image_url }}" />
+      </div>
+      <div class="season__content">
+        <h2 class="season__title">{{ page.title }}</h2>
+        {{ content | markdownify }}
+        <hr/>
+        <div class="grid">
+          {% assign episodes = site.episodes | where: 'category', page.title | sort: 'weight' %}
+          {% for episode in episodes %}
+            <div class="grid__cell grid__cell--50">
+              {% include episode_preview.html episode=episode %}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+</div>
