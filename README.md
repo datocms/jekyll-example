@@ -18,3 +18,7 @@ bundle exec dato dump --token=6d71de8571ec5a8d925c83b4a5087813db3242233d187758b6
 # build Jekyll site
 bundle exec jekyll build
 ```
+
+## Website preview
+
+![Website screenshot](https://raw.githubusercontent.com/datocms/jekyll-example/master/screenshot.png)
