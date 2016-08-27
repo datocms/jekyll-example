@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789089-eL9yxMohx1j0pd5WfIa9
 date: '2008-10-09'
 weight: 68
 rating: 8.4
+director: Jeffrey Blitz
 category: Season 5
 ---
 

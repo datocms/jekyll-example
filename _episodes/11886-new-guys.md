@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788883-dktvWJL68Bsptw56aTQI
 date: '2012-09-20'
 weight: 171
 rating: 7.6
+director: Greg Daniels
 category: Season 9
 ---
 

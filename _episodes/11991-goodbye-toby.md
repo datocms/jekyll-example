@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789095-aI4PqWp3fNhdB2kvmWPy
 date: '2008-05-15'
 weight: 65
 rating: 9.3
+director: Paul Feig
 category: Season 4
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789227-h539DweEaSNFQQPwwpbj
 date: '2005-03-29'
 weight: 1
 rating: 8.3
+director: Ken Kwapis
 category: Season 1
 ---
 

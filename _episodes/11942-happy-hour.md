@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788998-nwcFxb5TLVr7eS4js2fQ
 date: '2010-03-25'
 weight: 115
 rating: 8.5
+director: Matt Sohn
 category: Season 6
 ---
 

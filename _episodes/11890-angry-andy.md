@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788891-3CwK9U4adat9ZbzOcgox
 date: '2012-04-19'
 weight: 167
 rating: 7.1
+director: Claire Scanlon
 category: Season 8
 ---
 

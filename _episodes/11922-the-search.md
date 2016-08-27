@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788958-rnvFi2jrZciOmU3txExz
 date: '2011-02-03'
 weight: 135
 rating: 8.2
+director: Michael Alan Spiller
 category: Season 7
 ---
 

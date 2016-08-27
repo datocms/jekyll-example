@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789020-ybWnB1NHrEPON7A4ebkj
 date: '2009-11-12'
 weight: 104
 rating: 8.4
+director: Greg Daniels
 category: Season 6
 ---
 

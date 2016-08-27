@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789016-sh7ioUs1PnXOUCiz1Vat
 date: '2009-12-03'
 weight: 106
 rating: 8.2
+director: B.J. Novak
 category: Season 6
 ---
 

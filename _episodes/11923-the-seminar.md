@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788960-vSrnU8oNmIq729MbBYbA
 date: '2011-01-27'
 weight: 134
 rating: 7.6
+director: B.J. Novak
 category: Season 7
 ---
 

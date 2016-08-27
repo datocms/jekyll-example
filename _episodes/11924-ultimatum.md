@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788962-dnJoKsJSKBnb9CEkF5nx
 date: '2011-01-20'
 weight: 133
 rating: 8.1
+director: David Rogers
 category: Season 7
 ---
 

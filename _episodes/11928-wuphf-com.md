@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788969-sbnVgPjyAXPtwDHcfqda
 date: '2010-11-18'
 weight: 130
 rating: 7.7
+director: Danny Leiner
 category: Season 7
 ---
 

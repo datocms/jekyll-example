@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789150-cffoDjYcruoKeVnWYawi
 date: '2006-09-21'
 weight: 29
 rating: 8.7
+director: 
 category: Season 3
 ---
 

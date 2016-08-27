@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788977-hF2cHwgX5agXLrklkZIu
 date: '2010-10-21'
 weight: 126
 rating: 7.7
+director: Randall Einhorn
 category: Season 7
 ---
 

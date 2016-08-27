@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788981-ly7ISYrX0k9fG9PdLkMT
 date: '2010-10-07'
 weight: 124
 rating: 8.0
+director: John Scott
 category: Season 7
 ---
 

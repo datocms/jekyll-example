@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789034-aI1js1MXNErmcSTBmeyt
 date: '2009-10-01'
 weight: 97
 rating: 7.8
+director: Jennifer Celotta
 category: Season 6
 ---
 

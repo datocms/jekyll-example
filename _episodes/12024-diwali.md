@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789161-nbdGfblY3wVgWQRyy7H9
 date: '2006-11-02'
 weight: 34
 rating: 7.8
+director: Miguel Arteta
 category: Season 3
 ---
 

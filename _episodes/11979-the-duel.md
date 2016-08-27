@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789071-nOX0ra1taDbQeOcMU8IY
 date: '2009-01-15'
 weight: 78
 rating: 8.6
+director: Dean Holland
 category: Season 5
 ---
 

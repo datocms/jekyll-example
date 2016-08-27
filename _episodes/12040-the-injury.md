@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789193-rGKwrAhtyHIRaFrD7EwU
 date: '2006-01-12'
 weight: 17
 rating: 9.0
+director: Bryan Gordon
 category: Season 2
 ---
 

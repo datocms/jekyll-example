@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789009-tVCjuW20qvvkuycwSK0N
 date: '2010-02-11'
 weight: 110
 rating: 7.8
+director: 
 category: Season 6
 ---
 

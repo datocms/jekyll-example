@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788994-hovtvLtGQi01Cq2FoFTW
 date: '2010-04-29'
 weight: 117
 rating: 7.9
+director: Mindy Kaling
 category: Season 6
 ---
 

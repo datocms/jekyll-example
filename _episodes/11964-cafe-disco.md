@@ -7,6 +7,7 @@ thumbnail_url:
 date: '2009-05-07'
 weight: 93
 rating: 8.5
+director: Randall Einhorn
 category: Season 5
 ---
 

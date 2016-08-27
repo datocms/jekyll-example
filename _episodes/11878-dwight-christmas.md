@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788867-sxDPz4VFozGJB8tVpeQR
 date: '2012-12-06'
 weight: 179
 rating: 8.1
+director: Charles McDougall
 category: Season 9
 ---
 

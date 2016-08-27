@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789167-84QC4UQT78RoAIph8j9c
 date: '2006-10-05'
 weight: 31
 rating: 8.4
+director: Greg Daniels
 category: Season 3
 ---
 

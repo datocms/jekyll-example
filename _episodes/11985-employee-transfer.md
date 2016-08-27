@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789083-9XZVVa9At3K6lMU8RAdw
 date: '2008-10-30'
 weight: 72
 rating: 8.1
+director: David Rogers
 category: Season 5
 ---
 

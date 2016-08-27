@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789045-o3Mf3nCoABG5LaPshnBL
 date: '2009-04-16'
 weight: 89
 rating: 8.5
+director: Ken Whittingham
 category: Season 5
 ---
 

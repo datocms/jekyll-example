@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789024-9K9sjtgNL0dzzgkWy2Yz
 date: '2009-10-29'
 weight: 102
 rating: 8.1
+director: Reginald Hudlin
 category: Season 6
 ---
 

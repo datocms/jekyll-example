@@ -7,6 +7,7 @@ thumbnail_url:
 date: '2009-05-14'
 weight: 94
 rating: 8.8
+director: Ken Kwapis
 category: Season 5
 ---
 

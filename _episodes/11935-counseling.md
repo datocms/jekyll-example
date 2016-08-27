@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788983-nJG2hmsr3ud4BHnQnKR2
 date: '2010-09-30'
 weight: 123
 rating: 8.0
+director: Jeffrey Blitz
 category: Season 7
 ---
 

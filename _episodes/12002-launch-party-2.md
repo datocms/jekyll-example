@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789118-w9CASez9306zcPc9F3wm
 date: '2007-10-11'
 weight: 57
 rating: 8.1
+director: 
 category: Season 4
 ---
 

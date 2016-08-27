@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788899-aTDd5PPjlRZBQHKHoI1V
 date: '2012-03-01'
 weight: 163
 rating: 7.7
+director: Brent Forrester
 category: Season 8
 ---
 

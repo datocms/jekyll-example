@@ -32,6 +32,7 @@ directory "_episodes" do
         date: episode.first_aired.to_s,
         weight: i,
         rating: episode.rating,
+        director: episode.director,
         category: episode.season.name
 
       content episode.description

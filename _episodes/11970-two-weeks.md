@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789053-uQLwBG8GViyOlm67dF8M
 date: '2009-03-26'
 weight: 87
 rating: 8.3
+director: Paul Lieberstein
 category: Season 5
 ---
 

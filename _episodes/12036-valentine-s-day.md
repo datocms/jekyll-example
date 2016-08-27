@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789185-2R3w685XAQZhUoVkPVn4
 date: '2006-02-09'
 weight: 21
 rating: 8.2
+director: Greg Daniels
 category: Season 2
 ---
 

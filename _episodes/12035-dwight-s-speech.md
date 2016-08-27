@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9p
 date: '2006-03-02'
 weight: 22
 rating: 8.3
+director: Charles McDougall
 category: Season 2
 ---
 

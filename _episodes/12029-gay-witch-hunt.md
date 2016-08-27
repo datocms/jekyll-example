@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789171-cffoDjYcruoKeVnWYawi
 date: '2006-09-21'
 weight: 28
 rating: 8.8
+director: Ken Kwapis
 category: Season 3
 ---
 

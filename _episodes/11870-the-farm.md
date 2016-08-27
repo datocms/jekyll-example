@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788849-pQWI2v9h3nPcFnyyisFn
 date: '2013-03-14'
 weight: 187
 rating: 7.3
+director: Paul Lieberstein
 category: Season 9
 ---
 

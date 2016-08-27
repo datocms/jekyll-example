@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789138-oS6qnqHZzVET8ZWsl4bG
 date: '2007-02-15'
 weight: 44
 rating: 8.8
+director: Joss Whedon
 category: Season 3
 ---
 

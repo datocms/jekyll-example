@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789012-syUkSwU4XFElzKzg2Exl
 date: '2010-01-21'
 weight: 108
 rating: 6.6
+director: Jeffrey Blitz
 category: Season 6
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789226-oQd8zzPk64Sn2dsFMHFN
 date: '2005-04-05'
 weight: 2
 rating: 7.8
+director: Ken Whittingham
 category: Season 1
 ---
 

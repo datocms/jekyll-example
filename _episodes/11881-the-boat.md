@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788874-ddYs9QQxjp16TQ1mTZ0a
 date: '2012-11-08'
 weight: 176
 rating: 7.6
+director: John Krasinski
 category: Season 9
 ---
 

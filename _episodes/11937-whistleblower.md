@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788988-aM7DYSIfVky7AVsI224B
 date: '2010-05-20'
 weight: 120
 rating: 7.9
+director: Paul Lieberstein
 category: Season 6
 ---
 

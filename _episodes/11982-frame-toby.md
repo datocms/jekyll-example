@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789077-o6MKt4rjkGAMxE75X48e
 date: '2008-11-20'
 weight: 75
 rating: 8.4
+director: Jason Reitman
 category: Season 5
 ---
 

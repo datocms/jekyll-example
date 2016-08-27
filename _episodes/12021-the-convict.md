@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789155-g5qKLm3Ysy4Cxxe4hgWf
 date: '2006-11-30'
 weight: 37
 rating: 7.9
+director: Jeffrey Blitz
 category: Season 3
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789131-55inKgwHlN3t56h3D4hR
 date: '2007-04-26'
 weight: 48
 rating: 8.8
+director: Randall Einhorn
 category: Season 3
 ---
 

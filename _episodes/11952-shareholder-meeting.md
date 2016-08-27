@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789018-wf0mncTeBHUwffd7YzDM
 date: '2009-11-19'
 weight: 105
 rating: 8.1
+director: Charles McDougall
 category: Season 6
 ---
 

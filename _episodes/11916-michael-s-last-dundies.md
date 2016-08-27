@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788945-5xWaRlYLgXZojzNHNdLM
 date: '2011-04-21'
 weight: 141
 rating: 8.7
+director: Mindy Kaling
 category: Season 7
 ---
 

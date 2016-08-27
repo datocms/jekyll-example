@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788854-g9S2OTYeVvpb3Sav9ULK
 date: '2013-02-07'
 weight: 185
 rating: 7.4
+director: Troy Miller
 category: Season 9
 ---
 

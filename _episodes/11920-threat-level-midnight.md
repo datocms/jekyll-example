@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788954-t6LNoFu4fjia1SZKS3hx
 date: '2011-02-17'
 weight: 137
 rating: 9.2
+director: Tucker Gates
 category: Season 7
 ---
 

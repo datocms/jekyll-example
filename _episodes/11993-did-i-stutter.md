@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789099-iROlvB2LiJXSdJl54Iyt
 date: '2008-05-01'
 weight: 63
 rating: 8.4
+director: Randall Einhorn
 category: Season 4
 ---
 

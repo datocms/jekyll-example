@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788973-uaemdNfoRE8NS4OdBuxH
 date: '2010-11-04'
 weight: 128
 rating: 7.3
+director: Alex Hardcastle
 category: Season 7
 ---
 

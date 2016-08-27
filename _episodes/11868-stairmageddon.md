@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788844-iLmMhIQ0iRD45o9ztPGa
 date: '2013-04-11'
 weight: 189
 rating: 7.7
+director: Matt Sohn
 category: Season 9
 ---
 

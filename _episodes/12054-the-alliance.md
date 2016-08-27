@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789223-upKB46d5klri3jmOkZqj
 date: '2005-04-12'
 weight: 3
 rating: 8.1
+director: Bryan Gordon
 category: Season 1
 ---
 

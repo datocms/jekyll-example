@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788949-75IQ5A8Mk7k7HCe9KzM1
 date: '2011-03-24'
 weight: 139
 rating: 9.1
+director: Steve Carell
 category: Season 7
 ---
 

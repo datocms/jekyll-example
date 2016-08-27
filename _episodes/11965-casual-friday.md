@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789041-hcd6YWqf4haPor5l0m9s
 date: '2009-04-30'
 weight: 92
 rating: 8.2
+director: Brent Forrester
 category: Season 5
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789122-fgyCNrZF0bCLB5Ik1LxH
 date: '2007-10-04'
 weight: 53
 rating: 8.3
+director: Craig Zisk
 category: Season 4
 ---
 

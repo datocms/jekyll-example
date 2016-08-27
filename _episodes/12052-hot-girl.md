@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789219-aeKIJvE2EhW1kl1k0bpq
 date: '2005-04-26'
 weight: 5
 rating: 7.7
+director: Amy Heckerling
 category: Season 1
 ---
 

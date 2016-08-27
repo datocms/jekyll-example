@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788860-5pyazRSZBRyYfBaUDcfO
 date: '2013-01-24'
 weight: 182
 rating: 8.0
+director: Kelly Cantley
 category: Season 9
 ---
 

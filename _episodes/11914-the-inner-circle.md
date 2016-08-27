@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788940-kr7K0QRHMnV9RunUa7Hy
 date: '2011-05-05'
 weight: 143
 rating: 7.7
+director: Matt Sohn
 category: Season 7
 ---
 

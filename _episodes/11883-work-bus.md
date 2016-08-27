@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788877-2qo1NAdlPeovPabqZr8j
 date: '2012-10-18'
 weight: 174
 rating: 7.6
+director: Bryan Cranston
 category: Season 9
 ---
 

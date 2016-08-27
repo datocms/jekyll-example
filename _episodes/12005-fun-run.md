@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789124-hu1kz8e9nUp69Kxgm6M6
 date: '2007-09-27'
 weight: 52
 rating: 8.8
+director: Greg Daniels
 category: Season 4
 ---
 

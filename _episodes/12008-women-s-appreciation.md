@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789129-mR568L55qjchHzGKoyoW
 date: '2007-05-03'
 weight: 49
 rating: 8.8
+director: Tucker Gates
 category: Season 3
 ---
 

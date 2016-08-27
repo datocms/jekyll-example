@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789180-5wocahQtbE9u6d3JTBud
 date: '2006-03-30'
 weight: 24
 rating: 7.9
+director: Ken Whittingham
 category: Season 2
 ---
 

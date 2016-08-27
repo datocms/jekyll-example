@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788847-wgOtvSuM8YgSv9cmlfWv
 date: '2013-04-04'
 weight: 188
 rating: 7.8
+director: Jennifer Celotta
 category: Season 9
 ---
 

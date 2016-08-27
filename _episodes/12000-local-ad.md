@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789114-eaWlzpqzr04X6PqCsRr5
 date: '2007-10-25'
 weight: 55
 rating: 8.8
+director: Jason Reitman
 category: Season 4
 ---
 

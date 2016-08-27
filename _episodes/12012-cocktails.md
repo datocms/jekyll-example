@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789136-67jtBxhkSw84XYU2HhD5
 date: '2007-02-22'
 weight: 45
 rating: 8.4
+director: J.J. Abrams
 category: Season 3
 ---
 

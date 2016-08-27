@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788923-8fEXGmaLRe9Zqc8DmCad
 date: '2011-10-27'
 weight: 151
 rating: 7.5
+director: Randall Einhorn
 category: Season 8
 ---
 

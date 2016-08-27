@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788947-yV6Y9HMcWBJyi3ZI9cGK
 date: '2011-04-14'
 weight: 140
 rating: 7.8
+director: Paul Lieberstein
 category: Season 7
 ---
 

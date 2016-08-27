@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789003-qefQeKOowzHWGdwMpylD
 date: '2010-03-11'
 weight: 113
 rating: 7.7
+director: Randall Einhorn
 category: Season 6
 ---
 

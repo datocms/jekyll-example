@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788937-vintOn3jqkQgTmhwzKs8
 date: '2011-05-12'
 weight: 144
 rating: 8.6
+director: Troy Miller
 category: Season 7
 ---
 

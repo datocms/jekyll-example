@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789201-9LoBX7tAxmD6FYs70tCZ
 date: '2005-11-15'
 weight: 13
 rating: 8.1
+director: Paul Feig
 category: Season 2
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788840-vuj0JpyqrIlQVN62MkwX
 date: '2013-05-02'
 weight: 191
 rating: 8.7
+director: Jeffrey Blitz
 category: Season 9
 ---
 

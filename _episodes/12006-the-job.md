@@ -7,6 +7,7 @@ thumbnail_url:
 date: '2007-05-17'
 weight: 51
 rating: 9.3
+director: Ken Kwapis
 category: Season 3
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789113-81vWpMbvR9aPY7DmKnAO
 date: '2007-11-01'
 weight: 58
 rating: 8.4
+director: Joss Whedon
 category: Season 4
 ---
 

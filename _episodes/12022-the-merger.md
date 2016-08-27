@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789157-kCmXGjL7nEqXK3ld3RJ3
 date: '2006-11-16'
 weight: 36
 rating: 8.5
+director: Ken Whittingham
 category: Season 3
 ---
 

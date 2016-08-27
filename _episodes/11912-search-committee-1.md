@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788936-8oyjhplM0VCa7q86vhVb
 date: '2011-05-19'
 weight: 145
 rating: 8.3
+director: 
 category: Season 7
 ---
 

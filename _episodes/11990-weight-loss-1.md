@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789093-lNNeH1mWK9KIORf3CAOf
 date: '2008-09-25'
 weight: 67
 rating: 8.7
+director: 
 category: Season 5
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788858-ndz7qR2Vk7gtvx6gDZPG
 date: '2013-01-31'
 weight: 183
 rating: 7.6
+director: David Rogers
 category: Season 9
 ---
 

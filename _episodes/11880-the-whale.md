@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788871-cAL5hGLbM9ftgM9wnYNi
 date: '2012-11-15'
 weight: 177
 rating: 7.4
+director: Rodman Flender
 category: Season 9
 ---
 

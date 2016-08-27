@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788943-nJG2hmsr3ud4BHnQnKR2
 date: '2011-04-28'
 weight: 142
 rating: 9.6
+director: Paul Feig
 category: Season 7
 ---
 

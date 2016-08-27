@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789022-knZPw4NP7jcc6PNsbTJH
 date: '2009-11-05'
 weight: 103
 rating: 8.1
+director: Seth Gordon
 category: Season 6
 ---
 

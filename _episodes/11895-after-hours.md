@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788901-7eUAn4aCGV2JLa4rIIsZ
 date: '2012-02-23'
 weight: 162
 rating: 7.9
+director: Brian Baumgartner
 category: Season 8
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789108-o7InwsGvkri76m6Xp6VH
 date: '2007-11-15'
 weight: 60
 rating: 8.6
+director: Julian Farino
 category: Season 4
 ---
 

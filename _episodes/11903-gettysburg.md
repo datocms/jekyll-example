@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788917-6CxjPGEWenFChyCdUAdk
 date: '2011-11-17'
 weight: 154
 rating: 6.7
+director: Jeffrey Blitz
 category: Season 8
 ---
 

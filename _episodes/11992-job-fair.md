@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789097-oXittBXBL3VROnj3qEvx
 date: '2008-05-08'
 weight: 64
 rating: 7.9
+director: Tucker Gates
 category: Season 4
 ---
 

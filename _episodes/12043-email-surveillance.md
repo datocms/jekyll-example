@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789199-sz35InsmgNHLmvxvipo8
 date: '2005-11-22'
 weight: 14
 rating: 8.9
+director: 
 category: Season 2
 ---
 

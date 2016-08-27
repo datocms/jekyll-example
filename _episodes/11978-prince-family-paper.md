@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789070-uaTzxvcOVpaFnlXEyzyB
 date: '2009-01-22'
 weight: 79
 rating: 7.9
+director: Asaad Kelada
 category: Season 5
 ---
 

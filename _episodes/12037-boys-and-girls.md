@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789187-3A2fNCFszz1wOdppAR6H
 date: '2006-02-02'
 weight: 20
 rating: 8.1
+director: Dennie Gordon
 category: Season 2
 ---
 

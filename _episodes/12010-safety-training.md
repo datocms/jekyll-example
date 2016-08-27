@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789132-oq775vFQe4e0JFsdGm7G
 date: '2007-04-12'
 weight: 47
 rating: 8.7
+director: Harold Ramis
 category: Season 3
 ---
 

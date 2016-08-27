@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789073-lNNeH1mWK9KIORf3CAOf
 date: '2008-12-11'
 weight: 77
 rating: 8.3
+director: Paul Feig
 category: Season 5
 ---
 

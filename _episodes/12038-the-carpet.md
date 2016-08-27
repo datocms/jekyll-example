@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789189-cAmUgdn8pLuAZFXMTzFV
 date: '2006-01-26'
 weight: 19
 rating: 7.8
+director: Victor Nelli Jr.
 category: Season 2
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788930-wySf5KK9ajFHFbgHdqAX
 date: '2011-09-29'
 weight: 148
 rating: 7.9
+director: Charles McDougall
 category: Season 8
 ---
 

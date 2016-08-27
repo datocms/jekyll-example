@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788889-wySf5KK9ajFHFbgHdqAX
 date: '2012-04-26'
 weight: 168
 rating: 6.7
+director: David Rogers
 category: Season 8
 ---
 

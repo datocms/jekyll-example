@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788886-gCkflzj60Cy0xC3oB6WG
 date: '2012-05-10'
 weight: 170
 rating: 7.5
+director: B.J. Novak
 category: Season 8
 ---
 

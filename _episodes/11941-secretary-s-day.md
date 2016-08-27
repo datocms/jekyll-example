@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788997-4fETo77AHiaKSNtvrpeo
 date: '2010-04-22'
 weight: 116
 rating: 7.8
+director: Steve Carell
 category: Season 6
 ---
 

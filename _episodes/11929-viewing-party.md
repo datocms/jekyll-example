@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788971-6stiBvhQmHPB2t5E3ILd
 date: '2010-11-11'
 weight: 129
 rating: 7.8
+director: Ken Whittingham
 category: Season 7
 ---
 

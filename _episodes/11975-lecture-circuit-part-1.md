@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789063-up3Mq6A7xYpgi54aONPA
 date: '2009-02-05'
 weight: 80
 rating: 8.2
+director: Ken Kwapis
 category: Season 5
 ---
 

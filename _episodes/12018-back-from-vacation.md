@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789148-nZvNUXk6BNEshH8sJsNq
 date: '2007-01-04'
 weight: 39
 rating: 8.3
+director: Julian Farino
 category: Season 3
 ---
 

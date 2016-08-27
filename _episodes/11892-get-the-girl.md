@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788895-ejAUfM0gsJBhOrhhotCS
 date: '2012-03-15'
 weight: 165
 rating: 6.9
+director: Rainn Wilson
 category: Season 8
 ---
 

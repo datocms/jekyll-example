@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788992-3458laVnVudJ9rx9l8lZ
 date: '2010-05-06'
 weight: 118
 rating: 8.1
+director: Rainn Wilson
 category: Season 6
 ---
 

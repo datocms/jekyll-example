@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788907-bboFn5zqtsLW1kjfoJuI
 date: '2012-02-02'
 weight: 159
 rating: 7.3
+director: Eric Appel
 category: Season 8
 ---
 

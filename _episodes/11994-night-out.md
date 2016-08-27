@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789101-9WaaG5wjxjrdDbH5Z8lC
 date: '2008-04-24'
 weight: 62
 rating: 8.7
+director: Ken Whittingham
 category: Season 4
 ---
 

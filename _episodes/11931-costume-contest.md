@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788975-kHIliHR3Sp1T9hBZczvo
 date: '2010-10-28'
 weight: 127
 rating: 8.1
+director: Dean Holland
 category: Season 7
 ---
 

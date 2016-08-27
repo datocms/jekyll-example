@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789026-opY61OOaUvo0RRHLz1oR
 date: '2009-10-22'
 weight: 101
 rating: 8.4
+director: Lee Eisenberg, Gene Stupnitsky
 category: Season 6
 ---
 

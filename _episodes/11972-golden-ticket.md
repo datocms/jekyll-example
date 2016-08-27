@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789057-v7nHsSs5oQCnZB4H7oZR
 date: '2009-03-12'
 weight: 85
 rating: 8.5
+director: Randall Einhorn
 category: Season 5
 ---
 

@@ -24,15 +24,6 @@ paginate:
     <div class="grid__cell grid__cell--80">
       <section class="section">
         <h2 class="section__title">Episodes</h2>
-        <div class="pagination">
-          {% if paginator.previous_page_path %}
-            <a href="{{paginator.previous_page_path}}" class="pagination__prev">Previous page</a>
-          {% endif %}
-
-          {% if paginator.next_page_path %}
-            <a href="{{paginator.next_page_path}}" class="pagination__next">Next page</a>
-          {% endif %}
-        </div>
         <div class="grid">
           {% for episode in paginator.episodes %}
             <div class="grid__cell grid__cell--50">

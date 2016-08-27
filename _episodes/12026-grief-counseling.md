@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789165-3WK426lrl3TTP01lArMb
 date: '2006-10-12'
 weight: 32
 rating: 7.9
+director: Roger Nygard
 category: Season 3
 ---
 

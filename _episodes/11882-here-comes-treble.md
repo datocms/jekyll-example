@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788876-dxIlMHpvnGOKiWzPxTM0
 date: '2012-10-25'
 weight: 175
 rating: 6.9
+director: Claire Scanlon
 category: Season 9
 ---
 

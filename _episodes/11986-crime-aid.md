@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789085-kgGNZNtR9hJzpgFAiQPa
 date: '2008-10-23'
 weight: 71
 rating: 8.0
+director: Jennifer Celotta
 category: Season 5
 ---
 

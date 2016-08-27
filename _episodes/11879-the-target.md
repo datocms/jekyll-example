@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788869-e6hqm5G4Y7GE4Ii9o5re
 date: '2012-11-29'
 weight: 178
 rating: 7.6
+director: Brent Forrester
 category: Season 9
 ---
 

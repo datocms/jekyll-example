@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789195-lZxFPCbWswlffb2oIKdV
 date: '2006-01-05'
 weight: 16
 rating: 8.4
+director: Ken Kwapis
 category: Season 2
 ---
 

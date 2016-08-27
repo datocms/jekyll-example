@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788915-aq9SZenTvJbJrTHKsNrq
 date: '2011-12-01'
 weight: 155
 rating: 7.6
+director: Charlie Grandy
 category: Season 8
 ---
 

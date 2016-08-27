@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788851-cyFjCEzogMuA6zXURC2c
 date: '2013-02-14'
 weight: 186
 rating: 8.1
+director: Jon Favreau
 category: Season 9
 ---
 

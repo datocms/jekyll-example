@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789087-lr3Smhk5bfxLOwmGKkDQ
 date: '2008-10-16'
 weight: 70
 rating: 8.0
+director: Greg Daniels
 category: Season 5
 ---
 

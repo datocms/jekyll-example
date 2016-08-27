@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788856-rrIo7qOL3NxePOLgbJOO
 date: '2013-01-31'
 weight: 184
 rating: 7.5
+director: Lee Kirk
 category: Season 9
 ---
 

@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788842-uxwVA84b8Po7jOg9GZNt
 date: '2013-04-25'
 weight: 190
 rating: 7.7
+director: Jesse Peretz
 category: Season 9
 ---
 

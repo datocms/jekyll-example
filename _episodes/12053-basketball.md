@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789221-1cvMeuQYpgvLQYre6FTk
 date: '2005-04-19'
 weight: 4
 rating: 8.3
+director: Greg Daniels
 category: Season 1
 ---
 

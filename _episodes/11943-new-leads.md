@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471789000-AkpXQJwSOqC62OtgFodS
 date: '2010-03-18'
 weight: 114
 rating: 7.8
+director: Brent Forrester
 category: Season 6
 ---
 

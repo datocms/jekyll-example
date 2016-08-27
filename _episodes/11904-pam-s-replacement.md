@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788920-wd02yuzInGfPrh6eo3U3
 date: '2011-11-10'
 weight: 153
 rating: 7.6
+director: Matt Sohn
 category: Season 8
 ---
 

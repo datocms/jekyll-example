@@ -38,6 +38,11 @@ layout: default
             <li class="meta__item">
               <strong>Episode number: </strong>{{ page.episode_number }}
             </li>
+            {% if page.director %}
+              <li class="meta__item">
+                <strong>Director: </strong>{{ page.director }}
+              </li>
+            {% endif %}
             <li class="meta__item">
               <strong>First aired:</strong> {{ page.date | date_to_long_string }}
             </li>

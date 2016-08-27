@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788893-v4EEF666nHVmDzLSyCVS
 date: '2012-04-12'
 weight: 166
 rating: 7.2
+director: Ed Helms
 category: Season 8
 ---
 

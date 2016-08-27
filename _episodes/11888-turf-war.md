@@ -7,6 +7,7 @@ thumbnail_url: https://dato-images.imgix.net/151/1471788888-tdSCo7CxxpcrCAhk7duK
 date: '2012-05-03'
 weight: 169
 rating: 7.6
+director: Daniel Chun
 category: Season 8
 ---
 
