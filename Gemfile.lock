@@ -17,7 +17,7 @@ GEM
     addressable (2.4.0)
     blankslate (2.1.2.4)
     colorator (1.1.0)
-    dato (0.1.18)
+    dato (0.1.21)
       activesupport (= 4.2.7.1)
       addressable
       downloadr
