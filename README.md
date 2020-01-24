@@ -8,12 +8,20 @@ To read more about the `dato` gem, please refer to [its documentation](https://g
 
 ## Usage
 
+Click the following button to set up a project on DatoCMS with the schema and data that you need to run this example.
+
+[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/jekyll-example)
+
+
 ```
 # install dependencies
 bundle install
 
+# fill the .env file with your API token
+echo 'DATO_API_TOKEN=abc123' >> .env
+
 # download latest data from DatoCMS site
-bundle exec dato dump --token=6d71de8571ec5a8d925c83b4a5087813db3242233d187758b6
+bundle exec dato dump
 
 # build Jekyll site
 bundle exec jekyll build
