@@ -6,3 +6,4 @@ _data/
 _episodes/
 _seasons/
 .env
+.jekyll-cache/
