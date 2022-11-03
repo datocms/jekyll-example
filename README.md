@@ -1,3 +1,5 @@
+# ⛔️ DEPRECATED ⛔️
+
 # Jekyll example website
 
 This repository contains a Jekyll website integrated with a DatoCMS site. The site is deployed on Netlify, and can be seen at this URL: https://datocms-jekyll-example.netlify.com/
